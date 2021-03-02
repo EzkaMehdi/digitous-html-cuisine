@@ -1,0 +1,9 @@
+body{
+    @font-face {
+        font-family: 'oswald';
+        src: url('Oswald-VariableFont_wght.tff');
+    }
+}
+h1{
+    font-family: osw,Arial, Helvetica, sans-serif;
+}
